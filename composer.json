@@ -1,0 +1,17 @@
+{
+    "name": "eyra/fecha_utils",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ElaRondon",
+            "email": "elainerondon2004@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "funciones.php"
+        ]
+    }
+}
